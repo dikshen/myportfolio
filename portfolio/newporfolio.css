@@ -1,0 +1,488 @@
+.newporfolio-container {
+    width: 100%;
+    display: flex;
+    overflow: auto;
+    min-height: 100vh;
+    align-items: center;
+    flex-direction: column;
+  }
+  .newporfolio-newporfolio {
+    width: 100%;
+    height: 3854px;
+    display: flex;
+    overflow: hidden;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 0;
+    background-color: rgba(255, 255, 255, 1);
+  }
+  .newporfolio-aboutmenavbar {
+    top: 0px;
+    left: 0px;
+    width: 1280px;
+    height: 819px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    background-color: rgba(242, 245, 247, 1);
+  }
+  .newporfolio-rectangle-aboutme {
+    top: 0px;
+    left: 0px;
+    width: 1280px;
+    height: 819px;
+    position: absolute;
+  }
+  .newporfolio-text {
+    top: 43px;
+    left: 740px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .newporfolio-text02 {
+    top: 45px;
+    left: 910px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .newporfolio-text04 {
+    top: 43px;
+    left: 1075px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .newporfolio-text06 {
+    top: 397px;
+    left: 50px;
+    color: rgba(255, 255, 255, 1);
+    width: 716px;
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Imprima;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .newporfolio-text08 {
+    top: 282px;
+    left: 46px;
+    color: rgba(255, 255, 255, 1);
+    width: 390px;
+    height: auto;
+    position: absolute;
+    font-size: 40px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Imprima;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .newporfolio-text10 {
+    top: 341px;
+    left: 49px;
+    color: rgba(255, 255, 255, 1);
+    width: 323px;
+    height: auto;
+    position: absolute;
+    font-size: 22px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Imprima;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .newporfolio-profilephoto {
+    top: 238px;
+    left: 829px;
+    width: 400px;
+    height: 400px;
+    position: absolute;
+  }
+  .newporfolio-text12 {
+    top: 40px;
+    left: 549px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .newporfolio-projects {
+    top: 819px;
+    left: 0px;
+    width: 1280px;
+    height: 2050px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    background-color: rgba(206, 216, 224, 1);
+  }
+  .newporfolio-rectangle-projects {
+    top: 0px;
+    left: 0px;
+    width: 1280px;
+    height: 2050px;
+    position: absolute;
+  }
+  .newporfolio-text14 {
+    top: 1461px;
+    left: 650px;
+    color: rgba(255, 255, 255, 1);
+    width: 605px;
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Imprima;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .newporfolio-text16 {
+    top: 1405px;
+    left: 648px;
+    color: rgba(255, 255, 255, 1);
+    width: 324px;
+    height: auto;
+    position: absolute;
+    font-size: 22px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Imprima;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .newporfolio-carausel3 {
+    top: 1405px;
+    left: 50px;
+    width: 480px;
+    height: 389px;
+    position: absolute;
+  }
+  .newporfolio-text18 {
+    top: 920px;
+    left: 50px;
+    color: rgba(255, 255, 255, 1);
+    width: 564px;
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Imprima;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .newporfolio-text20 {
+    top: 860px;
+    left: 48px;
+    color: rgba(255, 255, 255, 1);
+    width: 324px;
+    height: auto;
+    position: absolute;
+    font-size: 22px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Imprima;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .newporfolio-carausel2 {
+    top: 860px;
+    left: 750px;
+    width: 480px;
+    height: 389px;
+    position: absolute;
+  }
+  .newporfolio-text22 {
+    top: 279px;
+    left: 650px;
+    color: rgba(255, 255, 255, 1);
+    width: 565px;
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Imprima;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .newporfolio-text24 {
+    top: 231px;
+    left: 648px;
+    color: rgba(255, 255, 255, 1);
+    width: 324px;
+    height: auto;
+    position: absolute;
+    font-size: 22px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Imprima;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .newporfolio-carausel1 {
+    top: 236px;
+    left: 50px;
+    width: 480px;
+    height: 389px;
+    position: absolute;
+  }
+  .newporfolio-text26 {
+    top: 86px;
+    left: 47px;
+    color: rgba(255, 255, 255, 1);
+    width: 390px;
+    height: auto;
+    position: absolute;
+    font-size: 40px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Imprima;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .newporfolio-rectangle32 {
+    top: 2048px;
+    left: 0px;
+    width: 1280px;
+    height: 365px;
+    position: absolute;
+  }
+  .newporfolio-resume {
+    top: 2869px;
+    left: 0px;
+    width: 1280px;
+    height: 367px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    background-color: rgba(25, 20, 42, 1);
+  }
+  .newporfolio-text28 {
+    top: 93px;
+    left: 248px;
+    color: rgba(255, 71, 71, 1);
+    width: 801px;
+    height: auto;
+    position: absolute;
+    font-size: 40px;
+    font-style: Regular;
+    text-align: center;
+    font-family: Imprima;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .newporfolio-text29 {
+    color: rgba(255, 71, 71, 1);
+  }
+  .newporfolio-contact {
+    top: 3236px;
+    left: 0px;
+    width: 1280px;
+    height: 607px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    background-color: rgba(206, 216, 224, 1);
+  }
+  .newporfolio-rectangle-contact {
+    top: 0px;
+    left: 0px;
+    width: 1280px;
+    height: 608px;
+    position: absolute;
+  }
+  .newporfolio-text31 {
+    top: 80px;
+    left: 48px;
+    color: rgba(255, 255, 255, 1);
+    width: 390px;
+    height: auto;
+    position: absolute;
+    font-size: 40px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Imprima;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .newporfolio-smartphone {
+    top: 185px;
+    left: 50px;
+    width: 50px;
+    height: 60px;
+    position: absolute;
+  }
+  .newporfolio-email {
+    top: 279px;
+    left: 50px;
+    width: 50px;
+    height: 50px;
+    position: absolute;
+  }
+  .newporfolio-locationon {
+    top: 363px;
+    left: 50px;
+    width: 50px;
+    height: 60px;
+    position: absolute;
+  }
+  .newporfolio-text33 {
+    top: 215px;
+    left: 150px;
+    color: rgba(255, 255, 255, 1);
+    width: 237px;
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Imprima;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .newporfolio-text35 {
+    top: 374px;
+    left: 150px;
+    color: rgba(255, 255, 255, 1);
+    width: 237px;
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Imprima;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .newporfolio-text37 {
+    top: 293px;
+    left: 150px;
+    color: rgba(255, 255, 255, 1);
+    width: 316px;
+    height: auto;
+    position: absolute;
+    font-size: 24px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Imprima;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .newporfolio-ellipse3 {
+    top: 95px;
+    left: 801px;
+    width: 379px;
+    height: 365px;
+    position: absolute;
+    box-sizing: content-box;
+    border-color: rgba(253, 250, 250, 1);
+    border-style: solid;
+    border-width: 1px;
+  }
+  .newporfolio-text39 {
+    top: 197px;
+    left: 875px;
+    color: rgba(255, 255, 255, 1);
+    width: 243px;
+    height: auto;
+    position: absolute;
+    font-size: 40px;
+    font-style: Regular;
+    text-align: left;
+    font-family: Imprima;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .newporfolio-image12 {
+    top: 306px;
+    left: 911px;
+    width: 30px;
+    height: 30px;
+    position: absolute;
+  }
+  .newporfolio-image14 {
+    top: 304px;
+    left: 1042px;
+    width: 30px;
+    height: 30px;
+    position: absolute;
+  }
+  
